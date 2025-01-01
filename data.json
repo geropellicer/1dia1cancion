@@ -1,0 +1,34 @@
+[
+  {
+    "Día": 0,
+    "Fecha": "31/12/2024",
+    "Canciones": ["Tuk Tuk (feat. ÄTNA) - song and lyrics by Solomun, ÄTNA | Spotify", "Hardgroove05 de E110101"],
+    "Links": ["https://open.spotify.com/track/63mBIczqBJOxSs3y5JutUR", "https://open.spotify.com/track/3EW88JYIfWhTBi9iQt9OUa"],
+    "Texto": "Hola, Arura. Feliz año!\nEsto se me ocurrió hace un par pero hace muy poco me decidí a llevarlo a cabo. \nLa idea es simple: como vamos a estar sin vernos, y probablemente hablando muy poco, durante un mes entero, y como entre muchas otras cosas algo que nos conectó mucho desde el principio es la música, te voy a dejar un tema que te quiero mostrar por cada día que no nos vemos. \n\nLa selección es muy variada y caprichosa. Tiene cosas donde lo importante es lo musical, otras donde lo importante es lo anecdótico, otras que mezclan ambas, y otras donde lo importante es qué papel juegan en nuestro incipiente vínculo. Pero todas son un poquito de lo que soy yo y de lo que quiero compartir con vos. \n\nComo viajando no sé cuando voy a tener tiempo y conexión a internet, todo esto lo pensé de antemano y lo dejé programado para que se vayan subiendo de a uno por día. Por eso puede ser que algunas cosas queden viejas, o que las recomendaciones queden subóptimas para el momento que estés pasando porque la información que tengo es hasta el 30 de diciembre, pero ojalá te guste igual. Es como una especie de diario del futuro.\n\nPD: Son un montón de canciones y sé que muchas veces vas a estar ocupada y que tu onda viajando quizás no es escuchar tanta música, asique no hay compromiso que tengas que poner todas. Pero a las que pongas, me gustaría si me podés comentar cuantas aruritas sobre 10 le das (tenés que ser honesta) para ir conociendo mejor tus gustos.\n\nDía 0: Dos temas para terminar el año viejo y empezar el año nuevo bailando. Claramente, la primera de muchas cosas que me enamoraron de vos. Uno ya lo conocés, pero me parece especial porque sonó el día que nos conocimos y lo puso Laucha. El otro es una contribución mía en el mismo mood.",
+    "Imagenes": ["./img/dia0-1.jpeg", "./img/dia0-2.jpeg"]
+},
+  {
+    "Día": 1,
+    "Fecha": "01/01/2025",
+    "Canciones": "Brazilian Soul (feat. Sofi Tukker) - Acoustic Bossa Version",
+    "Links": "https://open.spotify.com/track/5iX7aAVoO3dzUOZ1eAvg6f",
+    "Texto": "Día 1: Un tema que no es musicalmente wow, pero que tal vez es poco conocido dentro de la bosa nova más tradicional. Lo descubrí hace un par de años y me fascinó, siempre tuvo para mí un rostro anónimo y ahora desde que te conocí a vos y a tu conexión con Brasil, tiene tu carita. Me hace acordar a los videos tuyos en la playa que compartiste en historias apenas nos conocimos.  ",
+    "Imagenes": ["./img/dia1-1.jpeg"]
+  },
+  {
+    "Día": 2,
+    "Fecha": "02/01/2025",
+    "Canciones": "Sonnentanz - Sun Don't Shine - song and lyrics by Klangkarussell, Will Heard | Spotify",
+    "Links": "https://open.spotify.com/track/6Qi0Wls2EaolwPMPMxfe5f",
+    "Texto": "Día 2: Un tema arriba y chill a la vez, para empezar a palpitar las vacas y transitar la manija previa. Se puede escuchar y bailar con un gin o vermú en la mano. ",
+    "Imagenes": ["./img/dia2-1.jpeg"]
+  },
+  {
+    "Día": 3,
+    "Fecha": "03/01/2025",
+    "Canciones": "Black Rain - Âme Remix - song and lyrics by Rhye, Âme | Spotify",
+    "Links": "https://open.spotify.com/track/2xuCVDKo47AYxxjJtiTVCh",
+    "Texto": "Día 3: Hoy hago trampa porque este tema ya te lo mostré. Pero me parece sencillamente muy mágico. Los contrastes que tienen son para escuchar a ojos cerrados.",
+    "Imagenes": ["./img/dia3-1.jpeg"]
+  }
+]
