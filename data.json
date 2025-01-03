@@ -2,33 +2,301 @@
   {
     "Día": 0,
     "Fecha": "31/12/2024",
-    "Canciones": ["Tuk Tuk (feat. ÄTNA) - song and lyrics by Solomun, ÄTNA | Spotify", "Hardgroove05 de E110101"],
-    "Links": ["https://open.spotify.com/track/63mBIczqBJOxSs3y5JutUR", "https://open.spotify.com/track/3EW88JYIfWhTBi9iQt9OUa"],
+    "Canciones": [
+      "Tuk Tuk (feat. ÄTNA) - song and lyrics by Solomun, ÄTNA | Spotify",
+      "Hardgroove05 de E110101"
+    ],
+    "Links": [
+      "https://open.spotify.com/track/63mBIczqBJOxSs3y5JutUR",
+      "https://open.spotify.com/track/3EW88JYIfWhTBi9iQt9OUa"
+    ],
     "Texto": "Hola, Arura. Feliz año!\nEsto se me ocurrió hace un par pero hace muy poco me decidí a llevarlo a cabo. \nLa idea es simple: como vamos a estar sin vernos, y probablemente hablando muy poco, durante un mes entero, y como entre muchas otras cosas algo que nos conectó mucho desde el principio es la música, te voy a dejar un tema que te quiero mostrar por cada día que no nos vemos. \n\nLa selección es muy variada y caprichosa. Tiene cosas donde lo importante es lo musical, otras donde lo importante es lo anecdótico, otras que mezclan ambas, y otras donde lo importante es qué papel juegan en nuestro incipiente vínculo. Pero todas son un poquito de lo que soy yo y de lo que quiero compartir con vos. \n\nComo viajando no sé cuando voy a tener tiempo y conexión a internet, todo esto lo pensé de antemano y lo dejé programado para que se vayan subiendo de a uno por día. Por eso puede ser que algunas cosas queden viejas, o que las recomendaciones queden subóptimas para el momento que estés pasando porque la información que tengo es hasta el 30 de diciembre, pero ojalá te guste igual. Es como una especie de diario del futuro.\n\nPD: Son un montón de canciones y sé que muchas veces vas a estar ocupada y que tu onda viajando quizás no es escuchar tanta música, asique no hay compromiso que tengas que poner todas. Pero a las que pongas, me gustaría si me podés comentar cuantas aruritas sobre 10 le das (tenés que ser honesta) para ir conociendo mejor tus gustos.\n\nDía 0: Dos temas para terminar el año viejo y empezar el año nuevo bailando. Claramente, la primera de muchas cosas que me enamoraron de vos. Uno ya lo conocés, pero me parece especial porque sonó el día que nos conocimos y lo puso Laucha. El otro es una contribución mía en el mismo mood.",
     "Imagenes": ["./img/dia0-1.jpeg", "./img/dia0-2.jpeg"]
-},
+  },
   {
     "Día": 1,
-    "Fecha": "01/01/2025",
-    "Canciones": "Brazilian Soul (feat. Sofi Tukker) - Acoustic Bossa Version",
-    "Links": "https://open.spotify.com/track/5iX7aAVoO3dzUOZ1eAvg6f",
+    "Fecha": "01/01/2024",
+    "Canciones": ["Brazilian Soul (feat. Sofi Tukker) - Acoustic Bossa Version"],
+    "Links": ["https://open.spotify.com/track/5iX7aAVoO3dzUOZ1eAvg6f"],
     "Texto": "Día 1: Un tema que no es musicalmente wow, pero que tal vez es poco conocido dentro de la bosa nova más tradicional. Lo descubrí hace un par de años y me fascinó, siempre tuvo para mí un rostro anónimo y ahora desde que te conocí a vos y a tu conexión con Brasil, tiene tu carita. Me hace acordar a los videos tuyos en la playa que compartiste en historias apenas nos conocimos.  ",
     "Imagenes": ["./img/dia1-1.jpeg"]
   },
   {
     "Día": 2,
-    "Fecha": "02/01/2025",
-    "Canciones": "Sonnentanz - Sun Don't Shine - song and lyrics by Klangkarussell, Will Heard | Spotify",
-    "Links": "https://open.spotify.com/track/6Qi0Wls2EaolwPMPMxfe5f",
+    "Fecha": "02/01/2024",
+    "Canciones": ["Sonnentanz - Sun Don't Shine - song and lyrics by Klangkarussell, Will Heard | Spotify"],
+    "Links": ["https://open.spotify.com/track/6Qi0Wls2EaolwPMPMxfe5f"],
     "Texto": "Día 2: Un tema arriba y chill a la vez, para empezar a palpitar las vacas y transitar la manija previa. Se puede escuchar y bailar con un gin o vermú en la mano. ",
     "Imagenes": ["./img/dia2-1.jpeg"]
   },
   {
     "Día": 3,
-    "Fecha": "03/01/2025",
-    "Canciones": "Black Rain - Âme Remix - song and lyrics by Rhye, Âme | Spotify",
-    "Links": "https://open.spotify.com/track/2xuCVDKo47AYxxjJtiTVCh",
+    "Fecha": "03/01/2024",
+    "Canciones": ["Black Rain - Âme Remix - song and lyrics by Rhye, Âme | Spotify"],
+    "Links": ["https://open.spotify.com/track/2xuCVDKo47AYxxjJtiTVCh"],
     "Texto": "Día 3: Hoy hago trampa porque este tema ya te lo mostré. Pero me parece sencillamente muy mágico. Los contrastes que tienen son para escuchar a ojos cerrados.",
     "Imagenes": ["./img/dia3-1.jpeg"]
+  },
+  {
+    "Día": 4,
+    "Fecha": "04/01/2024",
+    "Canciones": [
+      "Shine On You Crazy Diamond (Pts. 1-5) - song and lyrics by Pink Floyd | Spotify",
+      "Shine On You Crazy Diamond (Pts. 6-9) - song and lyrics by Pink Floyd | Spotify",
+      "The Great Gig in the Sky - song and lyrics by Pink Floyd | Spotify"
+    ],
+    "Links": [
+      "https://open.spotify.com/track/6pnwfWyaWjQiHCKTiZLItr",
+      "https://open.spotify.com/track/21j1PsCiTaO8ZW88UZrh3A",
+      "https://open.spotify.com/track/2TjdnqlpwOjhijHCwHCP2d"
+    ],
+    "Texto": "Día 4: Ya sé que no estoy inventando nada nuevo, seguro que ninguna de estas 3 canciones te va a resultar nueva, pero pensando en tu viaje no me dejo de acordar que algunos de los momentos de más disfrute en mi vida fueron en el sur escuchando esto. Los quería dejar a mano para recordarte que los podés descargar y escuchar en la cima de alguna montaña o en frente de algún lago donde no haya señal. ",
+    "Imagenes": ["./img/dia4-1.jpeg", "./img/dia4-2.jpeg", "./img/dia4-3.jpeg"]
+  },
+  {
+    "Día": 5,
+    "Fecha": "05/01/2024",
+    "Canciones": ["Does It Matter - Ajna (BE) Remix - song and lyrics by Samm (BE), Ajna (BE) | Spotify"],
+    "Links": ["https://open.spotify.com/track/6yD4nL8def39R3QplxYGo5"],
+    "Texto": "Día 5: Ya de viaje, este tema te lo quiero mostrar hace muchísimo. En 2023 creo que el mejor dj al que fui a ver fue Monolink, donde además tomé la pepa que hasta el día de hoy es mi favorita y que quiero que probemos juntes. Antes de Monolink, tocó Maxi Degrasi, todo un set de house muy muy variado de varias horas que fue absolutamente increíble. Mientras me empezaba a pegar alcancé a shazamear este tema que desde ese día debo haber escuhado mil veces, que no puedo explicar con palabras lo mucho que me gusta. La melodía me pone automáticamente feliz. La sobreanalicé en clase de piano, la aprendí a tocar. Musicalmente no tiene nada demasiado especial, pero por algún motivo me toca el corazón. Si te pinta, dejo también el link al set entero de ese día en el que encontré esta canción, porque tiene temones: https://www.youtube.com/watch?v=IUOUJCgkGL8 ",
+    "Imagenes": ["./img/dia5-1.jpeg"]
+  },
+  {
+    "Día": 6,
+    "Fecha": "06/01/2024",
+    "Canciones": ["Hide U - Tinlicker Extended Remix"],
+    "Links": ["https://open.spotify.com/track/4lAGIM7txtIOKtzB0RKJ93"],
+    "Texto": "Día 6: Siguiendo con la temática de ayer, este tema también hace mucho que quiero escucharlo con vos. LLegué a él por el algoritmo, asique no tiene una historia cool detrás, pero también me toca una fibra muy impresionante. Recomiendo escuchar con los ojos cerrados y/o la conciencia al menos ligeramente alterada.",
+    "Imagenes": ["./img/dia6-1.jpeg"]
+  },
+  {
+    "Día": 7,
+    "Fecha": "07/01/2024",
+    "Canciones": ["Feel The Rhythm Deep Inside - song by yungpolar | Spotify"],
+    "Links": ["https://open.spotify.com/track/4HQaR9MjxIHroPli0D7oB7"],
+    "Texto": "Día 7: Espero que el viaje siga increíble. Este tema es para bailarlo en frente de un lago. El título dice todo lo que hace falta saber. Si te gusta, te va a gustar todo el resto del disco.",
+    "Imagenes": ["./img/dia7-1.jpeg"]
+  },
+  {
+    "Día": 8,
+    "Fecha": "08/01/2024",
+    "Canciones": ["Miracle - song and lyrics by Adriatique, WhoMadeWho | Spotify"],
+    "Links": ["https://open.spotify.com/track/0aVrpFRLlrd5zVyPXWP3mS"],
+    "Texto": "Día 8: Este tema pertenece a la categoría \"no es wow pero me toca una fibra sensisble\" que ya conociste y que vas a ver que vienen un par más en camino. Además se juntaron dos artistas que me gustan mucho. Supongo asociado a nosotres, el milagro es que haya sido todo tan mutuo, cosa que ni la versión más optimista de mí podría haber previsto. Brindo por eso todo el tiempo. ",
+    "Imagenes": ["./img/dia8-1.jpeg"]
+  },
+  {
+    "Día": 9,
+    "Fecha": "09/01/2024",
+    "Canciones": [
+      "The Calling - song and lyrics by Tchami, Marten Hørger | Spotify",
+      "After Life (feat. Stacy Barthe) - Tchami"
+    ],
+    "Links": [
+      "https://open.spotify.com/track/4BSMp7GnQYmqPEkDKLCnOD",
+      "https://open.spotify.com/track/3dhPpCQvw3kn7so6mkTbJ3"
+    ],
+    "Texto": "Día 9: Uno que encontré después de habernos conocido explorando el house francés. Sigo monotemático con el house, pero es que me da mucho a verano, lago, amigues y disfrutar la vida. Espero que sirva para hacerte bailar.",
+    "Imagenes": ["./img/dia9-1.jpeg", "./img/dia9-2.jpeg"]
+  },
+  {
+    "Día": 10,
+    "Fecha": "10/01/2024",
+    "Canciones": ["Cumbia del Olvido - song by Nicola Cruz | Spotify"],
+    "Links": ["https://open.spotify.com/track/1oCHMNWzKJdwdwjsPMjXf3"],
+    "Texto": "Día 10: La propuesta de hoy es más el género que la canción. En otras palabras, la idea es que la canción sea una puerta de entrada para explorar la fusión de música andina con música electrónica, que hace varios años me tiene fascinado. Recomiendo todo el disco donde aparece esta canción, en particular también Colibria y Sanación. Si te gusta la onda, hay un tipo que se llama Chancha Via Circuito que la rompe también, y tengo una playlist armada con música del estilo que me podés pedir si te copa.",
+    "Imagenes": ["./img/dia10-1.jpeg"]
+  },
+  {
+    "Día": 11,
+    "Fecha": "11/01/2024",
+    "Canciones": ["Taro - song by alt-J | Spotify"],
+    "Links": ["https://open.spotify.com/track/3R0aGgSQNVSPk0hDLTGwS3"],
+    "Texto": "Día 11: Un tema que me sensibiliza profundamente y me hace llorar muy fácil, para recordarte que te dejes querer.",
+    "Imagenes": ["./img/dia11-1.jpeg"]
+  },
+  {
+    "Día": 12,
+    "Fecha": "12/01/2024",
+    "Canciones": ["Singularity - song by Stephan Bodzin | Spotify"],
+    "Links": ["https://open.spotify.com/track/0yuJtvXsapVOQfNDYxQ5mw"],
+    "Texto": "Día 12: Un día en una fiesta petesiana en una casa platense, de las pocas a la que fui sin dj en vivo (varixs manejaban la música desde Spotify pero sobre todo Viqui Curotti) me tomé una pepa que fue de las veces que más drogado estuve sin haberlo previsto tanto. La droga fue tanta que fui de los últimos 3 en irme, cosa que jamás de los jamases sucede, y tuve que abandonar mi auto y volver en remo con Viqui. Además estuve más o menos una hora sentado riendome solo de lo duro que estaba, casi no podía comunicarme con nadie. Estuvo excelente, solo fue un poco imprevisto. El último episodio que da cuenta de lo drogado que estaba es que una chica amiga del dueño de casa me llevó afuera y me quiso empezar a chamuyar pero yo estaba tan ido que no le podía responder, no me salían las palabras. En ese contexto, en un momento ponen este tema y me parte la cabeza. Le pedí el nombre a Viqui y llegué a mi casa a escuchar el disco entero, por supuesto todavía drogado. Stephan Bodzin es a día de hoy mi productor favorito como compositor. Tiene una vibra chill, experimental y psicodélica que sintentiza muy puntualmente las cosas que más me gustan de la música electrónica. PD: Ese día también conocí a los hermanos químicos, de los cuales hablaremos más adelante. ",
+    "Imagenes": ["./img/dia12-1.jpeg"]
+  },
+  {
+    "Día": 13,
+    "Fecha": "13/01/2024",
+    "Canciones": ["Meine - song and lyrics by Daso | Spotify"],
+    "Links": ["https://open.spotify.com/track/5DfMPwcEud6Xn0VOJCv8AE"],
+    "Texto": "Día 13: No tengo idea de donde salió este tema, pero musicalmente me rompe la cabeza. Me encantaría escucharlo drogado (es invitación). ",
+    "Imagenes": ["./img/dia13-1.jpeg"]
+  },
+  {
+    "Día": 14,
+    "Fecha": "14/01/2024",
+    "Canciones": ["Tunnel - song and lyrics by Polo & Pan, Channel Tres | Spotify"],
+    "Links": ["https://open.spotify.com/track/4at0npP4QkdIUulFZIsYft"],
+    "Texto": "Día 14: Creo que no te pude terminar de fanatizar con Polo & Pan todo lo que quería, pero voy a hacer un par de intentos más. Este tema se puso mágicamente en el momento correcto cuando estábamos acostados en navidad. Salud por ese recuerdo.",
+    "Imagenes": ["./img/dia14-1.jpeg"]
+  },
+  {
+    "Día": 15,
+    "Fecha": "15/01/2024",
+    "Canciones": ["Smalltown Boy - song and lyrics by Bronski Beat | Spotify"],
+    "Links": ["https://open.spotify.com/track/5vmRQ3zELMLUQPo2FLQ76x"],
+    "Texto": "Día 15: Este tema está estratégicamente colocado aquí en la mitad del mes porque representa un recuerdo hermoso de bailar juntitxs mientras cocinamos. Bonus track: hay una versión un poco más electrónica que está muy muy bien, pero para esto la versión original me parecía que tiene más magia https://open.spotify.com/track/2m7sL4IIG2F5UULkgjnVLx",
+    "Imagenes": ["./img/dia15-1.jpeg"]
+  },
+  {
+    "Día": 16,
+    "Fecha": "16/01/2024",
+    "Canciones": [
+      "Since I've Been Loving You - Remaster - song and lyrics by Led Zeppelin | Spotify",
+      "You Shook Me - 1993 Remaster - song and lyrics by Led Zeppelin | Spotify"
+    ],
+    "Links": [
+      "https://open.spotify.com/track/1SDiiE3v2z89VxC3aVRKHQ",
+      "https://open.spotify.com/track/0CrseEjTnYoB625tKoUowp"
+    ],
+    "Texto": "Día 16: Simplemente no hay una mejor combinación de blues y virtuosismo. Escúchese en volumen alto. Como bonus, el título de la segunda me hace acordar siempre a cuando me dijiste que estabas flashada conmigo. ",
+    "Imagenes": ["./img/dia16-1.jpeg", "./img/dia16-2.jpeg"]
+  },
+  {
+    "Día": 17,
+    "Fecha": "17/01/2024",
+    "Canciones": ["Weight of Love - song and lyrics by The Black Keys | Spotify"],
+    "Links": ["https://open.spotify.com/track/3xMQOd1C3TXsjQ3pmzOmkC"],
+    "Texto": "Día 17: Sacando el título goma, es un temazo que no para de mejorar. Tengo ideas para compartir entre vos, yo y ese solo de guitarra.",
+    "Imagenes": ["./img/dia17-1.jpeg"]
+  },
+  {
+    "Día": 18,
+    "Fecha": "18/01/2024",
+    "Canciones": ["No Quarter - Remaster - song and lyrics by Led Zeppelin | Spotify"],
+    "Links": ["https://open.spotify.com/track/55ZL7fjGAWfClmpnsK6Xon"],
+    "Texto": "Día 18: Como suena el riff de esta canción son las ganas que te tengo. Me gusta pensar que nos damos como el nombre de esta canción: Sin cuartel. ",
+    "Imagenes": ["./img/dia18-1.jpeg"]
+  },
+  {
+    "Día": 19,
+    "Fecha": "19/01/2024",
+    "Canciones": ["Show Me Love - song and lyrics by Robin S | Spotify"],
+    "Links": ["https://open.spotify.com/track/4t0UsYzmmmZRMTWn77jiGF"],
+    "Texto": "Día 19: A riesgo de abusar del house como género, va este tema fundacional del house con una melodía recontra pegadiza, mucha energía y una de las mejores diva voices que dio el house como continuador de la música disco.",
+    "Imagenes": ["./img/dia19-1.jpeg"]
+  },
+  {
+    "Día": 20,
+    "Fecha": "20/01/2024",
+    "Canciones": ["Abu Simbel - song and lyrics by WhoMadeWho, Rampa | Spotify"],
+    "Links": ["https://open.spotify.com/track/1Y3yJHrBkkfj3GZKv1MVhF"],
+    "Texto": "Día 20: Este tema se estrenó en el templo de Abu Simbel en un live set que me voló la cabeza mal, con lo cual el nexo por lo histórico con vos ya es bastante evidente. Pero además arranca con una letra que, aunque es goma, también está bastante relacionadi con el empujoncito de energía que fuimos el uno para el otro para terminar el año: only you keep me going / through my hours / through my circles.",
+    "Imagenes": ["./img/dia20-1.jpeg"]
+  },
+  {
+    "Día": 21,
+    "Fecha": "21/01/2024",
+    "Canciones": ["Floating on Silence - song and lyrics by Tour-Maubourg | Spotify"],
+    "Links": ["https://open.spotify.com/track/0x29CeLQLR31LY4OtWkcPp"],
+    "Texto": "Día 21: Como suena este tema me siento cuando me decís algo lindo, me acariciás, o me acuerdo que te gusto.",
+    "Imagenes": ["./img/dia21-1.jpeg"]
+  },
+  {
+    "Día": 22,
+    "Fecha": "22/01/2024",
+    "Canciones": ["Aunque Me Digas Que No - Remix - song and lyrics by Peces Raros, Paul Deep (AR) | Spotify"],
+    "Links": ["https://open.spotify.com/track/0GsEObAtsqD0f9zmSrG4Is"],
+    "Texto": "Día 22: A esta altura seguro no te quedan temas de Peces Raros sin escuchar, pero como no quería dejar de incluir uno, voy con un remix. Bonus track, aún no te conté, pero este es el tema de Peces que más me sensibiliza y a la vez es el que más contradicciones me generó siempre: https://open.spotify.com/track/6XjaDuAkkkBCpLeSm6eLnv",
+    "Imagenes": ["./img/dia22-1.jpeg"]
+  },
+  {
+    "Día": 23,
+    "Fecha": "23/01/2024",
+    "Canciones": [
+      "Pena en mi corazon - song and lyrics by Bajofondo | Spotify",
+      "Pa' Bailar (Siempre Quiero Mas) - song and lyrics by Bajofondo, Julieta Venegas | Spotify"
+    ],
+    "Links": [
+      "https://open.spotify.com/track/03PfjjVBo7pX8AOzfCJOhM",
+      "https://open.spotify.com/track/7kRZrgXVxoBkIDHgi7Z7lx"
+    ],
+    "Texto": "Día 23: Va uno doble: 1) Ojalá pudiéramos vivir una vida sin pena en el corazón y ojalá estos días transcurran sin pena en tu corazón, pero por si alguna vez sucede, es un poco más lindo vivirlo con este tema a mano. 2) Esto condensa las dos primeras cosas que supe de vos: que te gusta bailar (y que bailás muy bien) y que bailás tango. Dos cosas que me encantan profundamente.",
+    "Imagenes": ["./img/dia23-1.jpeg", "./img/dia23-2.jpeg"]
+  },
+  {
+    "Día": 24,
+    "Fecha": "24/01/2024",
+    "Canciones": ["No Hay Mañana - song by COCO-PALOMA, Héctor Oaks | Spotify"],
+    "Links": ["https://open.spotify.com/track/5Nbgz5ULGqG9kIuefpSFn6"],
+    "Texto": "Día 24: (Ya te lo mostré alguna vez). Este es el tema que hizo que yo tuviera entradas para lo que después fue nuestra primera fiesta. Además, la primera vez que lo escuché fue mi primera fiesta en la casa donde después nos conocimos. PD la canción se hace una gran pregunta.",
+    "Imagenes": ["./img/dia24-1.jpeg"]
+  },
+  {
+    "Día": 25,
+    "Fecha": "25/01/2024",
+    "Canciones": ["Honey Trap - song and lyrics by Hozho | Spotify"],
+    "Links": ["https://open.spotify.com/track/4Cadk17BZse20uegkkIXFR"],
+    "Texto": "Día 25: 8 minutos 25 segundos sin desperdicio. La complejidad musical suficiente para saber que lo vas a apreciar, un título que me encanta porque además en el mundo de la informática se usa mucho la expresión honey trap, y 4 versos que claramente escribió alguien que estaba en la misma situación que estoy yo con vos: I surrendered to your beauty in my naiveté, and I fell on the honey trap.",
+    "Imagenes": ["./img/dia25-1.jpeg"]
+  },
+  {
+    "Día": 26,
+    "Fecha": "26/01/2024",
+    "Canciones": [
+      "Alter Ego - song and lyrics by NTO | Spotify",
+      "Invisible - Paul Kalkbrenner Remix:"
+    ],
+    "Links": [
+      "https://open.spotify.com/track/18MlLrfCkYOnKutil99GwY",
+      "https://open.spotify.com/track/2xUsXYIiK18wSnv2SXFGtj"
+    ],
+    "Texto": "Día 26: Hoy es un combo de dos canciones. El artista es el mismo, NTO, un francés que escuchó mucho tecno minimalista alemán de joven, se fascinó y ahora tiene colaboraciones muy piolas con Monolink, Tricky y Paul Kalkbrener entre otros. Tiene una capacidad de hacerme entrar en trance que me impresiona. El primero creo que va a ser un tema nuevo para vos, el segundo alguna vez lo escuchcamos juntes, específicamente cuando te fui a buscar a la rotonda en La Plata la vez que viniste en el 129. ",
+    "Imagenes": ["./img/dia26-1.jpeg", "./img/dia26-2.jpeg"]
+  },
+  {
+    "Día": 27,
+    "Fecha": "27/01/2024",
+    "Canciones": [
+      "Black Russian - song and lyrics by DVS1 | Spotify",
+      "The Bells - song and lyrics by Jeff Mills | Spotify"
+    ],
+    "Links": [
+      "https://open.spotify.com/track/2sW7CSAb02YOAF32uRXBbX",
+      "https://open.spotify.com/track/0ISxyAhfop0MoMeAUw72RN"
+    ],
+    "Texto": "Día 27: Dos temas fundacionales del tecno, de dos tipos que si alguna vez tenés oportunidad no deberías dejar de ver. Para mí se volvieron especialmente importante muy poquito antes de que empecemos a salir, cuando los fui a ver en vivo. Como bonus track, la historieta de vida de ambos personajes es increíblemente interesante. Y como segundo bonus track, Laucha puso The Bells el día que nos conocimos poco después de que le preguntara a Nacho por vos.",
+    "Imagenes": ["./img/dia27-1.jpeg", "./img/dia27-2.jpeg"]
+  },
+  {
+    "Día": 28,
+    "Fecha": "28/01/2024",
+    "Canciones": ["Innerbloom - song by RÜFÜS DU SOL | Spotify"],
+    "Links": ["https://open.spotify.com/track/6CGMZijOAZvTXG21T8t6R0"],
+    "Texto": "Día 28: Un tema diseñado a medida de la nostalgia y la melancolía, que al menos a mí me toca todas las fibras para ponerme así. Aunque ahora lo siento demasiado quemado por la industria y un poco demasiado popero para lo que viene siendo mi gusto, de vez en cuando me viene bien. ",
+    "Imagenes": ["./img/dia28-1.jpeg"]
+  },
+  {
+    "Día": 29,
+    "Fecha": "29/01/2024",
+    "Canciones": ["Aura - song and lyrics by Avoure | Spotify"],
+    "Links": ["https://open.spotify.com/track/0B2GWovtxzsh0a02PBbNl7"],
+    "Texto": "Día 29: Un tema bastante chill y medio popero al que llegué por el algoritmo. Está puesto acá para ayudar a aplacar la ansiedad que debemos tener a esta altura por volver a vernos.",
+    "Imagenes": ["./img/dia29-1.jpeg"]
+  },
+  {
+    "Día": 30,
+    "Fecha": "30/01/2024",
+    "Canciones": ["Thinking of a Place - song and lyrics by The War On Drugs | Spotify"],
+    "Links": ["https://open.spotify.com/track/4Sd5tbNP4q8wS64abqwfkN"],
+    "Texto": "Día 30: Repito la temática de algo chill pensando en calmar ansiedades, pero cambio de género. No se puede predecir el futuro pero supongo que hoy el lugar en el que estaré pensando sos vos.",
+    "Imagenes": ["./img/dia30-1.jpeg"]
+  },
+  {
+    "Día": 31,
+    "Fecha": "31/01/2024",
+    "Canciones": ["Goodbye - song and lyrics by The Chemical Brothers | Spotify"],
+    "Links": ["https://open.spotify.com/track/5Eyhw61L8qs4bdc6G4cfW3"],
+    "Texto": "Día 31: Un tema para partirse la cabeza. Y para decirle Goodbye a no vernos. Bonus track: una que cumple la misma consigna https://open.spotify.com/track/74n36gnS7xS0BjXefMbp8h",
+    "Imagenes": ["./img/dia31-1.jpeg"]
   }
 ]
